@@ -8,8 +8,14 @@ img {
 }
 
 .title {
+  display: flex;
   font-size: 36px;
   font-weight: 900;
+  justify-content: center;
+}
+
+.plants {
+  display: flex;
 }
 
 /* do not edit this footer */
