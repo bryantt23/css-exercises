@@ -12,10 +12,26 @@ img {
   font-size: 36px;
   font-weight: 900;
   justify-content: center;
+  padding-bottom: 32px;
 }
 
 .plants {
   display: flex;
+}
+
+.plant {
+  padding: 0 26px;
+  width: 200px;
+}
+
+.plant img {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.text {
+  text-align: center;
 }
 
 /* do not edit this footer */
