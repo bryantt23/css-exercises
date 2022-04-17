@@ -18,6 +18,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
@@ -85,4 +86,9 @@ ul {
 
   /* align-items: center; */
   background-color: pink;
+}
+
+li {
+  /* background-color: black; */
+  padding: 0 10px;
 }
