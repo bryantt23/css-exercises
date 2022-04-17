@@ -37,30 +37,20 @@ ul {
   list-style: none;
 }
 
-.header {
-  /* justify-content: center; */
-}
-
 .header,
 .left-links,
 .right-links {
   display: flex;
-  background-color: blueviolet;
 }
 
 .left-links {
   text-align: left;
-  /* margin-right: auto; */
-  /* display: flex; */
-  background-color: bisque;
-  /* justify-content: flex-start; */
   padding-left: 20px;
 }
 
 .right-links {
   display: flex;
   justify-content: flex-end;
-  background-color: aqua;
   margin-left: auto;
   padding-right: 20px;
 }
@@ -69,7 +59,6 @@ ul {
   flex: 1;
   display: flex;
   flex-direction: column;
-  background-color: gold;
   align-items: center;
 }
 
@@ -80,15 +69,9 @@ ul {
 
 .buttons,
 .input {
-  /* display: flex;
-  margin: 0 auto; */
   text-align: center;
-
-  /* align-items: center; */
-  background-color: pink;
 }
 
 li {
-  /* background-color: black; */
   padding: 0 10px;
 }
