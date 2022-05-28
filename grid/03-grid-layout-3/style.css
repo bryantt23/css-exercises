@@ -79,6 +79,7 @@
 }
 
 .article {
+  grid-column: 2/3;
   background-color: #bccbde;
 }
 
